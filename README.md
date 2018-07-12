@@ -1,2 +1,2 @@
 # find-odd-numbers
-small python program to find off numbers
+small python program to find odd numbers
